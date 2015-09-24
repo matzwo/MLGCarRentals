@@ -1,0 +1,6 @@
+c:\users\mateuszz\documents\visual studio 2013\Projects\MLGCarRentals\MLGCarRentals\bin\Debug\MLGCarRentals.exe.config
+C:\Users\MateuszZ\documents\visual studio 2013\Projects\MLGCarRentals\MLGCarRentals\bin\Debug\MLGCarRentals.exe
+C:\Users\MateuszZ\documents\visual studio 2013\Projects\MLGCarRentals\MLGCarRentals\bin\Debug\MLGCarRentals.pdb
+C:\Users\MateuszZ\documents\visual studio 2013\Projects\MLGCarRentals\MLGCarRentals\obj\Debug\MLGCarRentals.csprojResolveAssemblyReference.cache
+C:\Users\MateuszZ\documents\visual studio 2013\Projects\MLGCarRentals\MLGCarRentals\obj\Debug\MLGCarRentals.exe
+C:\Users\MateuszZ\documents\visual studio 2013\Projects\MLGCarRentals\MLGCarRentals\obj\Debug\MLGCarRentals.pdb
